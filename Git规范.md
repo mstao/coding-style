@@ -1,8 +1,6 @@
-
+如果没有用过git 或者对git不熟悉，建议至少把[Pro Git book](https://git-scm.com/book/zh/v2)前三章读一遍。
 
 # GIT 流程
-
-如果没有用过git 或者对git不熟悉，建议至少把[Pro Git book](https://git-scm.com/book/zh/v2)前三章读一遍。
 
 1. 如果没有克隆代码，先克隆远程代码到本地
    ```
